@@ -4,10 +4,3 @@ c class HelloWorld
 		System.out.println("Hello World!");
 	}
 }
-:wq
-
-:wq
-`
-
-
-
